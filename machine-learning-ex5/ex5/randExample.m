@@ -1,3 +1,5 @@
+%%% Optional exercise %%%
+
 % load data
 load('ex5data1');
 
